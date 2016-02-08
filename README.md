@@ -15,7 +15,7 @@
 #Week 3
   - We were asked to do an assigment to prove that Superman doesn't exist.
   - Our professor showed us how to solve other problems similar to our homework.
-  -We were taught about Modus Ponens, Modus Tollens, Hyphothetical Syllogism, Disjunctive syllogism, Addition, Simplification,          Conjunction, and Resolution.
+  - We were taught about Modus Ponens, Modus Tollens, Hyphothetical Syllogism, Disjunctive syllogism, Addition, Simplification,          Conjunction, and Resolution.
 
 #Week 4
   - We learned different kinds of proof.
